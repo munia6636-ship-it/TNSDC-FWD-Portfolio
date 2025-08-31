@@ -27,15 +27,5 @@ This project is part of my **Naan Mudhalvan – TNSDC 2025 initiative** and show
 ## 📸 Screenshots  
 
 ### Home Page  
-![Home Page](myself.jpeg)  
-
-### Projects Section  
-(Add screenshot of your projects section here)  
-
-### API Tester  
-(Add screenshot of API tester in action here)  
-
----
-
-## 📂 Project Structure  
+![Home Page](myself.jpeg) 
 
